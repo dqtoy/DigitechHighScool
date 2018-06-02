@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: a7a9b2e3ca52dac49bbc3721fd65e492
+timeCreated: 1483509326
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: walk_side_0
+    21300002: walk_side_1
+    21300004: walk_side_2
+    21300006: walk_side_3
+    21300008: walk_side_4
+    21300010: walk_side_5
+    21300012: walk_side_6
+    21300014: walk_side_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk_side_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 199
+        width: 110
+        height: 150
+      alignment: 9
+      pivot: {x: 0.7315189, y: 0.0029434203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_side_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 198
+        width: 107
+        height: 147
+      alignment: 9
+      pivot: {x: 0.72422177, y: 0.0034018795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_side_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 199
+        width: 101
+        height: 144
+      alignment: 9
+      pivot: {x: 0.7377153, y: 0.004149967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_side_3
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 198
+        width: 104
+        height: 147
+      alignment: 9
+      pivot: {x: 0.74492294, y: 0.0038370145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_side_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 21
+        width: 110
+        height: 150
+      alignment: 9
+      pivot: {x: 0.7316004, y: 0.003621699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_side_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 23
+        width: 113
+        height: 147
+      alignment: 9
+      pivot: {x: 0.7389872, y: 0.0034239374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_side_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 21
+        width: 116
+        height: 144
+      alignment: 9
+      pivot: {x: 0.74550366, y: 0.0037143892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_side_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 21
+        width: 113
+        height: 147
+      alignment: 9
+      pivot: {x: 0.7389694, y: 0.003864548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

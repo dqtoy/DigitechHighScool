@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: c00448c48d5c1410c88a3f336b19d992
+timeCreated: 1483519003
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: walk_side_back_0
+    21300002: walk_side_back_1
+    21300004: walk_side_back_2
+    21300006: walk_side_back_3
+    21300008: walk_side_back_4
+    21300010: walk_side_back_5
+    21300012: walk_side_back_6
+    21300014: walk_side_back_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk_side_back_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 230
+        width: 86
+        height: 172
+      alignment: 9
+      pivot: {x: 0.4015384, y: 0.0031740943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_side_back_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 230
+        width: 83
+        height: 169
+      alignment: 9
+      pivot: {x: 0.41466036, y: 0.0030049882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_side_back_2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 230
+        width: 79
+        height: 166
+      alignment: 9
+      pivot: {x: 0.42405683, y: 0.0028475106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_side_back_3
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 227
+        width: 80
+        height: 169
+      alignment: 9
+      pivot: {x: 0.3941536, y: 0.003004898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_side_back_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 26
+        width: 86
+        height: 172
+      alignment: 9
+      pivot: {x: 0.4006383, y: 0.0031399394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_side_back_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 26
+        width: 89
+        height: 169
+      alignment: 9
+      pivot: {x: 0.3875616, y: 0.0039036204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_side_back_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 28
+        width: 92
+        height: 166
+      alignment: 9
+      pivot: {x: 0.37449613, y: 0.0032784105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_side_back_7
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 29
+        width: 89
+        height: 169
+      alignment: 9
+      pivot: {x: 0.3875616, y: 0.0034630003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

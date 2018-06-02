@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeRPG", "Assembly-CSharp.csproj", "{F205D176-8B3C-2A91-5042-8A74E36C01FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeRPG", "Assembly-CSharp-Editor.csproj", "{38C2BDFF-5246-5AB5-8ABA-359DA161B8F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F205D176-8B3C-2A91-5042-8A74E36C01FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F205D176-8B3C-2A91-5042-8A74E36C01FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F205D176-8B3C-2A91-5042-8A74E36C01FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F205D176-8B3C-2A91-5042-8A74E36C01FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C2BDFF-5246-5AB5-8ABA-359DA161B8F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C2BDFF-5246-5AB5-8ABA-359DA161B8F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C2BDFF-5246-5AB5-8ABA-359DA161B8F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C2BDFF-5246-5AB5-8ABA-359DA161B8F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

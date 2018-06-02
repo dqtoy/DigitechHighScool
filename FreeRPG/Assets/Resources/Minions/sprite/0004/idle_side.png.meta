@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 3ce410fec5ecf42459e8b08d89bbd1d8
+timeCreated: 1483509185
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: idle_side_0
+    21300002: idle_side_1
+    21300004: idle_side_2
+    21300006: idle_side_3
+    21300008: idle_side_4
+    21300010: idle_side_5
+    21300012: idle_side_6
+    21300014: idle_side_7
+    21300016: idle_side_8
+    21300018: idle_side_9
+    21300020: idle_side_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle_side_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 191
+        width: 110
+        height: 150
+      alignment: 9
+      pivot: {x: 0.731992, y: 0.0039573163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_side_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 193
+        width: 110
+        height: 150
+      alignment: 9
+      pivot: {x: 0.73145, y: 0.003614807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_side_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 193
+        width: 110
+        height: 150
+      alignment: 9
+      pivot: {x: 0.7319111, y: 0.0039387005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_side_3
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 199
+        width: 110
+        height: 147
+      alignment: 9
+      pivot: {x: 0.7320712, y: 0.0038212368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_side_4
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 201
+        width: 110
+        height: 144
+      alignment: 9
+      pivot: {x: 0.73301333, y: 0.0039434433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_side_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 18
+        width: 113
+        height: 141
+      alignment: 9
+      pivot: {x: 0.73861504, y: 0.0039462233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_side_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 19
+        width: 113
+        height: 138
+      alignment: 9
+      pivot: {x: 0.738771, y: 0.0040611047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_side_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 20
+        width: 113
+        height: 138
+      alignment: 9
+      pivot: {x: 0.73939526, y: 0.0037089777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_side_8
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 19
+        width: 110
+        height: 141
+      alignment: 9
+      pivot: {x: 0.73223156, y: 0.0038210552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_side_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 21
+        width: 110
+        height: 144
+      alignment: 9
+      pivot: {x: 0.73223156, y: 0.0040658843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_side_10
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 19
+        width: 110
+        height: 147
+      alignment: 9
+      pivot: {x: 0.73285353, y: 0.0039409976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

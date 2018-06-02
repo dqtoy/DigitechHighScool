@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 29cb17d0b291c402cbc931cdb126794f
+timeCreated: 1483517035
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: damaged_side_act1_0
+    21300002: damaged_side_act1_1
+    21300004: damaged_side_act1_2
+    21300006: damaged_side_act1_3
+    21300008: damaged_side_act1_4
+    21300010: damaged_side_act1_5
+    21300012: damaged_side_act1_6
+    21300014: damaged_side_act1_7
+    21300016: damaged_side_act1_8
+    21300018: damaged_side_act1_9
+    21300020: damaged_side_act1_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: damaged_side_act1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 135
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.49332345, y: 0.015989145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_act1_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 139
+        width: 65
+        height: 98
+      alignment: 9
+      pivot: {x: 0.51521933, y: 0.014920293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_act1_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 140
+        width: 62
+        height: 97
+      alignment: 9
+      pivot: {x: 0.49310818, y: 0.015501986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_act1_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 137
+        width: 54
+        height: 100
+      alignment: 9
+      pivot: {x: 0.45371246, y: 0.015318756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_act1_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 7
+        width: 48
+        height: 116
+      alignment: 9
+      pivot: {x: 0.4703009, y: 0.0132026095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_act1_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 3
+        width: 48
+        height: 127
+      alignment: 9
+      pivot: {x: 0.46869802, y: 0.011517337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_act1_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 3
+        width: 48
+        height: 127
+      alignment: 9
+      pivot: {x: 0.469525, y: 0.012406852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_act1_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 3
+        width: 48
+        height: 127
+      alignment: 9
+      pivot: {x: 0.46968713, y: 0.012174843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

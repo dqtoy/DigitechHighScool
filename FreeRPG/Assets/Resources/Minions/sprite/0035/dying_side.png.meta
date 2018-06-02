@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 5a344d18d5cc94b5893a1ca6dcb2a098
+timeCreated: 1483509808
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dying_side_0
+    21300002: dying_side_1
+    21300004: dying_side_2
+    21300006: dying_side_3
+    21300008: dying_side_4
+    21300010: dying_side_5
+    21300012: dying_side_6
+    21300014: dying_side_7
+    21300016: dying_side_8
+    21300018: dying_side_9
+    21300020: dying_side_10
+    21300022: dying_side_11
+    21300024: dying_side_12
+    21300026: dying_side_13
+    21300028: dying_side_14
+    21300030: dying_side_15
+    21300032: dying_side_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dying_side_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 325
+        width: 74
+        height: 151
+      alignment: 9
+      pivot: {x: 0.520942, y: 0.0033868449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dying_side_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 325
+        width: 74
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5494665, y: 0.0047373376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dying_side_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 325
+        width: 74
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5473699, y: 0.004325006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dying_side_3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 325
+        width: 74
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5081507, y: 0.0042302413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dying_side_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 325
+        width: 74
+        height: 133
+      alignment: 9
+      pivot: {x: 0.50688213, y: 0.0048736343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dying_side_5
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 325
+        width: 74
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5082191, y: 0.0048175934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dying_side_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 175
+        width: 74
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5886117, y: 0.0041815387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dying_side_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 175
+        width: 74
+        height: 112
+      alignment: 9
+      pivot: {x: 0.6291867, y: 0.0045666015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dying_side_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 180
+        width: 74
+        height: 112
+      alignment: 9
+      pivot: {x: 0.6276224, y: 0.0036802292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dying_side_9
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 189
+        width: 74
+        height: 107
+      alignment: 9
+      pivot: {x: 0.6081621, y: 0.04570749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dying_side_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 185
+        width: 74
+        height: 115
+      alignment: 9
+      pivot: {x: 0.66695505, y: -0.01307864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dying_side_11
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 185
+        width: 77
+        height: 101
+      alignment: 9
+      pivot: {x: 0.7240767, y: 0.00438033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dying_side_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 35
+        width: 80
+        height: 109
+      alignment: 9
+      pivot: {x: 0.700822, y: 0.059150767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dying_side_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 35
+        width: 80
+        height: 112
+      alignment: 9
+      pivot: {x: 0.70410633, y: 0.060420137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dying_side_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 35
+        width: 77
+        height: 109
+      alignment: 9
+      pivot: {x: 0.6863546, y: 0.068749346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dying_side_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 33
+        width: 80
+        height: 112
+      alignment: 9
+      pivot: {x: 0.6948288, y: 0.06704705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dying_side_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 32
+        width: 77
+        height: 112
+      alignment: 9
+      pivot: {x: 0.68956727, y: 0.075882874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

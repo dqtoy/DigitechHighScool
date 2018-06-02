@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 5191aca3cf59d42728cfdbb7dd086f1b
+timeCreated: 1484025139
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: idle_side_back_0
+    21300002: idle_side_back_1
+    21300004: idle_side_back_2
+    21300006: idle_side_back_3
+    21300008: idle_side_back_4
+    21300010: idle_side_back_5
+    21300012: idle_side_back_6
+    21300014: idle_side_back_7
+    21300016: idle_side_back_8
+    21300018: idle_side_back_9
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle_side_back_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 529
+        width: 186
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5025054, y: 0.23977423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_side_back_1
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 526
+        width: 186
+        height: 259
+      alignment: 9
+      pivot: {x: 0.5031182, y: 0.23702472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_side_back_2
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 526
+        width: 186
+        height: 259
+      alignment: 9
+      pivot: {x: 0.5025054, y: 0.23728183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_side_back_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 259
+        width: 186
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5026084, y: 0.23977423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_side_back_4
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 262
+        width: 186
+        height: 253
+      alignment: 9
+      pivot: {x: 0.5029663, y: 0.2427402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_side_back_5
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 267
+        width: 186
+        height: 250
+      alignment: 9
+      pivot: {x: 0.5029661, y: 0.24589038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_side_back_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 186
+        height: 247
+      alignment: 9
+      pivot: {x: 0.49401864, y: 0.24776965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_side_back_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 5
+        width: 186
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5033243, y: 0.25184044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_side_back_8
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 4
+        width: 186
+        height: 247
+      alignment: 9
+      pivot: {x: 0.50276035, y: 0.24903962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_side_back_9
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1
+        width: 186
+        height: 250
+      alignment: 9
+      pivot: {x: 0.5026081, y: 0.2458905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

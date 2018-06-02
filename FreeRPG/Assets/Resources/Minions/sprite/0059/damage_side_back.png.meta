@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 58b79374524dd4890a3ff5831cf44b7a
+timeCreated: 1483578941
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: damage_side_back_0
+    21300002: damage_side_back_1
+    21300004: damage_side_back_2
+    21300006: damage_side_back_3
+    21300008: damage_side_back_4
+    21300010: damage_side_back_5
+    21300012: damage_side_back_6
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: damage_side_back_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 247
+        width: 107
+        height: 179
+      alignment: 9
+      pivot: {x: 0.33110175, y: 0.0030628396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damage_side_back_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 247
+        width: 110
+        height: 176
+      alignment: 9
+      pivot: {x: 0.34975088, y: 0.0025920002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damage_side_back_2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 250
+        width: 104
+        height: 173
+      alignment: 9
+      pivot: {x: 0.39902145, y: 0.0030455838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damage_side_back_3
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 247
+        width: 116
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5384053, y: 0.0029601152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damage_side_back_4
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 256
+        width: 119
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5507248, y: 0.0029600256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damage_side_back_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 122
+        height: 170
+      alignment: 9
+      pivot: {x: 0.560931, y: 0.0032376905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damage_side_back_6
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 53
+        width: 110
+        height: 158
+      alignment: 9
+      pivot: {x: 0.40439814, y: 0.0032280788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

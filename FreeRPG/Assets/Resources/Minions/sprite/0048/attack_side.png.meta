@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: 701b9f387a4d74ead9b5526941e50d3d
+timeCreated: 1483515917
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: attack_side_0
+    21300002: attack_side_1
+    21300004: attack_side_2
+    21300006: attack_side_3
+    21300008: attack_side_4
+    21300010: attack_side_5
+    21300012: attack_side_6
+    21300014: attack_side_7
+    21300016: attack_side_8
+    21300018: attack_side_9
+    21300020: attack_side_10
+    21300022: attack_side_11
+    21300024: attack_side_12
+    21300026: attack_side_13
+    21300028: attack_side_14
+    21300030: attack_side_15
+    21300032: attack_side_16
+    21300034: attack_side_17
+    21300036: attack_side_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: attack_side_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 728
+        width: 113
+        height: 201
+      alignment: 9
+      pivot: {x: 0.4831036, y: 0.0023788528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_side_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 728
+        width: 113
+        height: 204
+      alignment: 9
+      pivot: {x: 0.48153526, y: 0.0029266956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_side_2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 728
+        width: 116
+        height: 207
+      alignment: 9
+      pivot: {x: 0.46974602, y: 0.0023202205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_side_3
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 728
+        width: 116
+        height: 207
+      alignment: 9
+      pivot: {x: 0.47054896, y: 0.0024207663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_side_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 728
+        width: 116
+        height: 207
+      alignment: 9
+      pivot: {x: 0.46969762, y: 0.0020377487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_side_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 498
+        width: 116
+        height: 207
+      alignment: 9
+      pivot: {x: 0.46969393, y: 0.0020462994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_side_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 498
+        width: 116
+        height: 207
+      alignment: 9
+      pivot: {x: 0.47053292, y: 0.0019517981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_side_7
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 498
+        width: 116
+        height: 207
+      alignment: 9
+      pivot: {x: 0.469484, y: 0.0023242012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_side_8
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 498
+        width: 116
+        height: 207
+      alignment: 9
+      pivot: {x: 0.46996072, y: 0.0025108447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_side_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 498
+        width: 116
+        height: 207
+      alignment: 9
+      pivot: {x: 0.46985862, y: 0.0031375608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_side_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 244
+        width: 111
+        height: 206
+      alignment: 9
+      pivot: {x: 0.4997326, y: 0.11434685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_side_11
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 234
+        width: 111
+        height: 206
+      alignment: 9
+      pivot: {x: 0.499752, y: 0.114165075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_side_12
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 234
+        width: 111
+        height: 206
+      alignment: 9
+      pivot: {x: 0.49989992, y: 0.11490165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_side_13
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 234
+        width: 111
+        height: 206
+      alignment: 9
+      pivot: {x: 0.50024635, y: 0.11404004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_side_14
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 231
+        width: 108
+        height: 209
+      alignment: 9
+      pivot: {x: 0.4585108, y: 0.12688144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_side_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 25
+        width: 108
+        height: 206
+      alignment: 9
+      pivot: {x: 0.34740582, y: 0.07070939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_side_16
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 28
+        width: 100
+        height: 206
+      alignment: 9
+      pivot: {x: 0.35550964, y: 0.05625034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_side_17
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 24
+        width: 114
+        height: 207
+      alignment: 9
+      pivot: {x: 0.43443003, y: 0.0027589935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_side_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 10
+        width: 124
+        height: 210
+      alignment: 9
+      pivot: {x: 0.56814575, y: 0.002302533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

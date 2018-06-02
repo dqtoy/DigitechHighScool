@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 2b9803fc2230746f3a5df0e785a8f019
+timeCreated: 1483779753
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: damaged_side_back_0
+    21300002: damaged_side_back_1
+    21300004: damaged_side_back_2
+    21300006: damaged_side_back_3
+    21300008: damaged_side_back_4
+    21300010: damaged_side_back_5
+    21300012: damaged_side_back_6
+    21300014: damaged_side_back_7
+    21300016: damaged_side_back_8
+    21300018: damaged_side_back_9
+    21300020: damaged_side_back_10
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: damaged_side_back_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 189
+        width: 140
+        height: 175
+      alignment: 9
+      pivot: {x: 0.3033337, y: 0.008156302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_back_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 195
+        width: 140
+        height: 169
+      alignment: 9
+      pivot: {x: 0.432455, y: 0.0082269255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_back_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 195
+        width: 140
+        height: 169
+      alignment: 9
+      pivot: {x: 0.45318124, y: 0.00885064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_back_3
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 196
+        width: 140
+        height: 169
+      alignment: 9
+      pivot: {x: 0.4317978, y: 0.008929913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_back_4
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 195
+        width: 140
+        height: 169
+      alignment: 9
+      pivot: {x: 0.453496, y: 0.008124718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_back_5
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 196
+        width: 140
+        height: 169
+      alignment: 9
+      pivot: {x: 0.43223572, y: 0.008850549}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_back_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 14
+        width: 140
+        height: 169
+      alignment: 9
+      pivot: {x: 0.4539342, y: 0.008045241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_back_7
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 20
+        width: 140
+        height: 169
+      alignment: 9
+      pivot: {x: 0.4317979, y: 0.00911136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_back_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 20
+        width: 137
+        height: 151
+      alignment: 9
+      pivot: {x: 0.39776477, y: 0.009843157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_back_9
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 15
+        width: 137
+        height: 157
+      alignment: 9
+      pivot: {x: 0.3760394, y: 0.009617495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_back_10
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 8
+        width: 140
+        height: 163
+      alignment: 9
+      pivot: {x: 0.3896881, y: 0.009408026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

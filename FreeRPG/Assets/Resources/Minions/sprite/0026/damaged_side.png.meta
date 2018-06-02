@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: e33eb0ae8462c4ae888f902e40a91a8d
+timeCreated: 1483505527
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: damaged_side_0
+    21300002: damaged_side_1
+    21300004: damaged_side_2
+    21300006: damaged_side_3
+    21300008: damaged_side_4
+    21300010: damaged_side_5
+    21300012: damaged_side_6
+    21300014: damaged_side_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: damaged_side_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 150
+        width: 131
+        height: 225
+      alignment: 9
+      pivot: {x: 0.47062135, y: 0.055474177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 163
+        width: 134
+        height: 207
+      alignment: 9
+      pivot: {x: 0.45849904, y: 0.060490116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 167
+        width: 145
+        height: 166
+      alignment: 9
+      pivot: {x: 0.4246561, y: 0.075078666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_3
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 170
+        width: 142
+        height: 160
+      alignment: 9
+      pivot: {x: 0.43323097, y: 0.07843037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 133
+        height: 139
+      alignment: 9
+      pivot: {x: 0.43861154, y: 0.068588704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_5
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 5
+        width: 131
+        height: 142
+      alignment: 9
+      pivot: {x: 0.42407435, y: 0.08762115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 5
+        width: 131
+        height: 142
+      alignment: 9
+      pivot: {x: 0.4233438, y: 0.08694731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_side_7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 5
+        width: 131
+        height: 142
+      alignment: 9
+      pivot: {x: 0.42472014, y: 0.08831717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

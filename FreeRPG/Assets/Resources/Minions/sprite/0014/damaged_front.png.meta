@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 1cfe30d8d784c4de9bad85a9e9be668e
+timeCreated: 1483677023
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: damaged_front_0
+    21300002: damaged_front_1
+    21300004: damaged_front_2
+    21300006: damaged_front_3
+    21300008: damaged_front_4
+    21300010: damaged_front_5
+    21300012: damaged_front_6
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: damaged_front_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 38
+        width: 66
+        height: 168
+      alignment: 9
+      pivot: {x: 0.4929527, y: 0.0036020733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_front_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 38
+        width: 72
+        height: 153
+      alignment: 9
+      pivot: {x: 0.53336865, y: 0.0033788993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_front_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 38
+        width: 69
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5156462, y: 0.003920355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_front_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 38
+        width: 65
+        height: 162
+      alignment: 9
+      pivot: {x: 0.48640794, y: 0.0028363217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_front_4
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 38
+        width: 65
+        height: 159
+      alignment: 9
+      pivot: {x: 0.48521072, y: 0.003730774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_front_5
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 37
+        width: 67
+        height: 162
+      alignment: 9
+      pivot: {x: 0.51415014, y: 0.0035179986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_front_6
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 32
+        width: 69
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5590316, y: 0.0032128082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

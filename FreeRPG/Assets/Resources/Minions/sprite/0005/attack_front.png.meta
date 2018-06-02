@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 80f3a36885b854c4aa01e06f92396ff6
+timeCreated: 1483668218
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: attack_front_0
+    21300002: attack_front_1
+    21300004: attack_front_2
+    21300006: attack_front_3
+    21300008: attack_front_4
+    21300010: attack_front_5
+    21300012: attack_front_6
+    21300014: attack_front_7
+    21300016: attack_front_8
+    21300018: attack_front_9
+    21300020: attack_front_10
+    21300022: attack_front_11
+    21300024: attack_front_12
+    21300026: attack_front_13
+    21300028: attack_front_14
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: attack_front_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 345
+        width: 71
+        height: 159
+      alignment: 9
+      pivot: {x: 0.4846352, y: 0.0030554046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_front_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 345
+        width: 73
+        height: 168
+      alignment: 9
+      pivot: {x: 0.4316726, y: 0.0032168797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_front_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 348
+        width: 77
+        height: 165
+      alignment: 9
+      pivot: {x: 0.42128685, y: 0.0029565059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_front_3
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 348
+        width: 77
+        height: 165
+      alignment: 9
+      pivot: {x: 0.42171648, y: 0.0032237659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_front_4
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 348
+        width: 77
+        height: 165
+      alignment: 9
+      pivot: {x: 0.42131776, y: 0.0029452238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_front_5
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 348
+        width: 77
+        height: 165
+      alignment: 9
+      pivot: {x: 0.4224457, y: 0.0027206882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_front_6
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 354
+        width: 73
+        height: 159
+      alignment: 9
+      pivot: {x: 0.4317577, y: 0.0033563578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_front_7
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 277
+        width: 71
+        height: 214
+      alignment: 9
+      pivot: {x: 0.48546848, y: 0.34332004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_front_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 32
+        width: 71
+        height: 214
+      alignment: 9
+      pivot: {x: 0.48483315, y: 0.3433427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_front_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 38
+        width: 72
+        height: 208
+      alignment: 9
+      pivot: {x: 0.47904354, y: 0.35343635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_front_10
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 41
+        width: 72
+        height: 205
+      alignment: 9
+      pivot: {x: 0.48053148, y: 0.3291599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_front_11
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 41
+        width: 72
+        height: 208
+      alignment: 9
+      pivot: {x: 0.479343, y: 0.29575536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_front_12
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 41
+        width: 72
+        height: 211
+      alignment: 9
+      pivot: {x: 0.4797499, y: 0.27753228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_front_13
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 63
+        width: 133
+        height: 189
+      alignment: 9
+      pivot: {x: 0.7484576, y: 0.14547992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_front_14
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 78
+        width: 135
+        height: 174
+      alignment: 9
+      pivot: {x: 0.7524052, y: 0.05432322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: 9694f4608d0284d578afb1ad941efdf3
+timeCreated: 1483675948
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: attack_back_0
+    21300002: attack_back_1
+    21300004: attack_back_2
+    21300006: attack_back_3
+    21300008: attack_back_4
+    21300010: attack_back_5
+    21300012: attack_back_6
+    21300014: attack_back_7
+    21300016: attack_back_8
+    21300018: attack_back_9
+    21300020: attack_back_10
+    21300022: attack_back_11
+    21300024: attack_back_12
+    21300026: attack_back_13
+    21300028: attack_back_14
+    21300030: attack_back_15
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: attack_back_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 619
+        width: 140
+        height: 154
+      alignment: 9
+      pivot: {x: 0.26801398, y: 0.0038852445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_back_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 619
+        width: 132
+        height: 154
+      alignment: 9
+      pivot: {x: 0.28409484, y: 0.003966889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_back_2
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 619
+        width: 101
+        height: 148
+      alignment: 9
+      pivot: {x: 0.509743, y: 0.004069973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_back_3
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 619
+        width: 112
+        height: 144
+      alignment: 9
+      pivot: {x: 0.71809494, y: 0.003417545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_back_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 422
+        width: 78
+        height: 154
+      alignment: 9
+      pivot: {x: 0.595685, y: 0.003778631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_back_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 422
+        width: 78
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5958158, y: 0.0032636642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_back_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 428
+        width: 78
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5961867, y: 0.003778631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_back_7
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 428
+        width: 78
+        height: 154
+      alignment: 9
+      pivot: {x: 0.59518117, y: 0.003778433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_back_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 230
+        width: 78
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5958157, y: 0.0035239877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_back_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 239
+        width: 82
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5425346, y: 0.0037276323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_back_10
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 245
+        width: 82
+        height: 130
+      alignment: 9
+      pivot: {x: 0.54195124, y: 0.004660856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_back_11
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 245
+        width: 82
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5423048, y: 0.004582214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_back_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 51
+        width: 82
+        height: 136
+      alignment: 9
+      pivot: {x: 0.54244566, y: 0.004122594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_back_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 51
+        width: 82
+        height: 127
+      alignment: 9
+      pivot: {x: 0.54384094, y: 0.0045169923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_back_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 55
+        width: 82
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5421801, y: 0.004845056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_back_15
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 55
+        width: 82
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5421805, y: 0.0040794434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
