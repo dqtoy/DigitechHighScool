@@ -6,6 +6,10 @@ using UnityEngine;
 [ExecuteInEditMode]
 public class FieldGenerator : MonoBehaviour {
 
+
+	public GameObject	map_parent;
+	public int tile_size_x, tile_size_y;
+
 	// Use this for initialization
 	void Start () {
 		
